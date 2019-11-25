@@ -1,2 +1,2 @@
 # Indesign-ExtendScript
-My javascript projects for automating Indesign
+My javascript small projects for automating Indesign
