@@ -1,2 +1,3 @@
 # Indesign-ExtendScript
-My javascript small projects for automating Indesign
+
+My ExtendScript scripts for automating Indesign
